@@ -14,7 +14,7 @@ Currently, I’m pursuing my **Master’s in Computer Science & Technology at Ul
 - ☁️ **Cloud Analytics & MLOps** – Azure, AWS, Docker, GitHub Actions, CI/CD pipelines  
 - 📈 **Data Visualization** – Power BI, Tableau, Looker Studio  
 
-I excel in dynamic, collaborative environments and enjoy tackling complex problems by combining analytics and machine learning.**.  
+I excel in dynamic, collaborative environments and enjoy tackling complex problems by combining analytics and machine learning.  
 
 ---
 
